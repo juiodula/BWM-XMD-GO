@@ -9,7 +9,8 @@
     "s": "node index.js",
     "start": "node index.js",
     "bot": "pm2 start index.js --attach --max-memory-restart 490M",
-    "c": "tsc"
+    "c": "tsc",
+    "heroku-prebuild": "rm -rf node_modules"
   },
   "engines": {
     "node": "20.x",
@@ -31,7 +32,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
     "@hapi/boom": "latest",
-    "@whiskeysockets/baileys":  "npm:xmd-baileys@latest",
+    "@whiskeysockets/baileys": "npm:xmd-baileys@latest",
     "adm-zip": "latest",
     "axios": "^1.2.5",
     "body-parser": "latest",
@@ -63,6 +64,6 @@
     "stream": "latest",
     "util": "latest",
     "wa-sticker-formatter": "latest",
-    "xmd-baileys": "^1.0.3"
+    "xmd-baileys": "latest"
   }
 }
