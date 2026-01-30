@@ -32,7 +32,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
     "@hapi/boom": "latest",
-    "@whiskeysockets/baileys": "npm:xmd-baileys@latest",
+    "@whiskeysockets/baileys": "npm:xmd-baileys@1.0.26",
     "adm-zip": "latest",
     "axios": "^1.2.5",
     "body-parser": "latest",
