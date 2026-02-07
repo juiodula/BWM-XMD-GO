@@ -35,8 +35,11 @@ Before deployment, configure your bot:
 Deploy the bot on your preferred platform.
 
 <p align="center">
-  <a href="https://main.bwmxmd.online/Deploy" target="_blank">
+  <a href="https://main.bwmxmd.co.ke/Deploy" target="_blank">
     <img src="https://img.shields.io/badge/🚀_HEROKU-000000?style=for-the-badge&color=FF00FF" width="200" height="45"/>
+  </a>
+  <a href="https://pro.bwmxmd.co.ke" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_BWM_XMD_PRO-000000?style=for-the-badge&color=FF00F" width="200" height="45"/>
   </a>
   <a href="https://render.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀_RENDER-000000?style=for-the-badge&color=61DAFB" width="200" height="45"/>
